@@ -1,3 +1,5 @@
 # **Introduction to Algorithms:**
 > *Using Pascal programming language*
-In this file I put all my first programming lines using **Pascal** language, so most of them are solution to our Algorthmic class exercises
+
+
+In this file you can find my first lines of code using **Pascal** programming language, so most of them are solution to our *Algorthmic and static data structures* class at university exercises.
